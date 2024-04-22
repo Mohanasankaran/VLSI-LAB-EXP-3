@@ -90,9 +90,13 @@ endmodule
 ```
 
 **Output Waveform**
+
+
 2 BIT MULTIPLIER:
 
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-3/assets/161284142/4ad1ae3a-8dcb-4857-b9c8-3f5cd315d7f6)
+
+
 4 BIT MULTIPLIER:
 
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-3/assets/161284142/79eb2eaa-436a-4d1f-9e78-de0825d59f93)
