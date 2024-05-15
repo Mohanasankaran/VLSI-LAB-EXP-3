@@ -1,10 +1,14 @@
 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+
 **AIM: **
 To simulate and synthesis multiplier using Vivado Software
+
 **APPARATUS REQUIRED:**
+
  Vivado™ ML 2023.2
   
 **PROCEDURE:**
+
 Open Vivado: Launch Xilinx Vivado software on your computer.
 
 Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
@@ -36,6 +40,7 @@ View Results: After the simulation completes, you can view waveforms, debug sign
 
 
 **Verilog code**
+
 2 BIT MULTIPLIER:
 ```
 module HalfAdder(a,b,sum,carry);
